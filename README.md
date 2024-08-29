@@ -15,3 +15,9 @@ By applying a combination of SQL, Pandas, and advanced visualization techniques,
 - Visualizations: A collection of charts and graphs that illustrate the key findings of the funnel analysis
 
 - Recommendations Report: A detailed report summarizing the insights gained from the funnel analysis. Actionable recommendations for improving user conversion rates, optimizing platform performance, and enhancing overall user engagement.
+
+## Co-Authors
+
+- [Lana Frenzel](https://github.com/lanafrenzel)
+- [Prudensy Opit](https://github.com/prudensy)
+- [Rama Al Homsi](https://github.com/rama-alhomsi)
