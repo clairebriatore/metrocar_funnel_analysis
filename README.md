@@ -60,7 +60,7 @@ The funnel analysis of Metrocar revealed several key insights:
 
 For any questions or feedback, please contact:
 - Name: Claire Briatore
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/claire-briatore/)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/claire-briatore/)
 
 
 ## Co-Authors
