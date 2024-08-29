@@ -8,6 +8,19 @@ Metrocar, like other ride-sharing platforms, has a multi-step customer journey f
 
 By applying a combination of SQL, Pandas, and advanced visualization techniques, the project will provide Metrocar with clear, data-driven recommendations to improve their ride-sharing service. 
 
+## Data
+
+The dataset used in this project is the [Metrocar Dataset](postgresql://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Metrocar). The data includes customer information, transaction history, and riding behavior.
+
+## Usage
+
+To reproduce the analysis, run the Jupyter notebooks in the `notebooks` directory. Start Jupyter Notebook:
+   ```bash
+   metrocar_workbook.ipynb
+   ```
+
+
+
 ## Deliverables:
 
 - Code Repository: Contains all SQL queries and Python scripts used for data extraction, analysis, and visualization.
