@@ -10,7 +10,9 @@ By applying a combination of SQL, Pandas, and advanced visualization techniques,
 
 ## Data
 
-The dataset used in this project is the [Metrocar Dataset](postgresql://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Metrocar). The data includes customer information, transaction history, and riding behavior.
+The dataset used in this project is the Metrocar_Dataset in PostgreSQL: postgresql://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Metrocar
+
+The data includes customer information, transaction history, and riding behavior.
 
 ## Usage
 
