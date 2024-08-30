@@ -42,7 +42,7 @@ The funnel analysis of Metrocar revealed several key insights:
 
 - Platform Performance: iOS users show higher engagement, suggesting a need to prioritize budget allocation towards iOS platforms, particularly in the U.S., where higher income levels correlate with increased app revenue.
 
-- Age Group Analysis: The primary user demographic is aged 35-44, with a significant 53% drop-off at the upper funnel stage, indicating the need for targeted strategies to improve retention.
+- Age Group Analysis: The primary user demographic is aged 35-44, with a significant 53% drop-off at the upper funnel stage through all age groups, indicating the need for targeted strategies to improve retention.
 
 - Surge Pricing Opportunities: Peak ride requests occur during weekday mornings and evenings, suggesting opportunities for surge pricing during these times to maximize revenue.
 
