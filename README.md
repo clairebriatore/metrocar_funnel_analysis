@@ -1,7 +1,7 @@
 # Funnel Analysis Metrocar: Comprehensive Overview
 
 ## Objective:
-The Funnel Analysis Mastery Project is designed to analyze and optimize the customer funnel of Metrocar, a ride-sharing app akin to Uber or Lyft. The primary goal is to identify areas within the customer journey that require improvement, enabling the company to enhance conversion rates, reduce drop-offs, and improve overall customer engagement. The analysis leverages SQL for data extraction and Pandas for in-depth data analysis and visualization.
+The Funnel Analysis Project is designed to analyze and optimize the customer funnel of Metrocar, a ride-sharing app akin to Uber or Lyft. The primary goal is to identify areas within the customer journey that require improvement, enabling the company to enhance conversion rates, reduce drop-offs, and improve overall customer engagement. The analysis leverages SQL for data extraction and Pandas for in-depth data analysis and visualization.
 
 ## Project Overview:
 Metrocar, like other ride-sharing platforms, has a multi-step customer journey from the initial user interaction to the completion of a ride. This project aims to dissect each stage of this journey using funnel analysis techniques to identify bottlenecks and areas for optimization. The insights derived from this analysis will inform actionable recommendations to enhance user experience and increase overall platform efficiency.
